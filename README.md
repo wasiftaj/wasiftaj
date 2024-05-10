@@ -7,7 +7,7 @@
 
 - 🏅 I've done **5+ Certifications**
 
-- 🎓 I’m currently pursuing my **Bachelor's in business and Information Technoloy**
+- 🎓 I’m currently pursuing my **Bachelors in business and Information Technoloy**
 
 - 💬 Ask me about **Web Development**
 
