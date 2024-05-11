@@ -7,13 +7,13 @@
 
 - 🏅 I've done **5+ Certifications**
 
-- 🎓 I’m currently pursuing my **Bachelors in business and Information Technoloy**
+- 🎓 I’m currently pursuing my **Bachelors in Business and Information Technology**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **wasiftaj073@gmail.com**
 
-- 📄 Know about my experiences [wasiftaj.github.io](wasiftaj.github.io)
+- 📄 Know about my experiences <a href="wasiftaj.github.io>wasiftaj.github.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
