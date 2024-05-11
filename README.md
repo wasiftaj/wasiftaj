@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wasiftaj073@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.wasiftaj.github.io">wasiftaj.github.io</a>
+- 📄 Know about my experiences <a href="https://wasiftaj.github.io">wasiftaj.github.io</a>
 
 
 <h3 align="left">Connect with me:</h3>
