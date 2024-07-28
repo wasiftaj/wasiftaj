@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NextWave Pakistan**
 
-- 🏅 I've done **5+ Certifications**
+- 🏅 I've done **7+ Certifications**
 
 - 🎓 I’m currently pursuing my **Bachelors in Business and Information Technology**
 
