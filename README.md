@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wasiftaj073@gmail.com**
 
-- 📄 Know about my experiences <a href="https://wasiftaj.">wasiftaj.netlify.app</a>
+- 📄 Know about my experiences <a href="https://wasiftaj.netlify.app/">wasiftaj.netlify.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
