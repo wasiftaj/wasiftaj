@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/wasiftaj073" target="blank"><img src="https://img.shields.io/twitter/follow/wasiftaj073?logo=twitter&style=for-the-badge" alt="wasiftaj073" /></a> </p>
 
-- 🏅 I've done **7+ Certifications**
-
 - 🎓 I’m currently pursuing my **Bachelors in Business and Information Technology**
+
+- 🏅 I've done **7+ Certifications**
 
 - 💬 Ask me about **Web Development**
 
