@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello World👋, I'm Wasif Taj</h1>
-<h3 align="center">A passionate Junior Front-end developer and Business and IT Undergraduate</h3>
+<h3 align="center">A passionate Junior Front-end developer and Business & IT Undergraduate</h3>
 
 <p align="left"> <a href="https://twitter.com/wasiftaj073" target="blank"><img src="https://img.shields.io/twitter/follow/wasiftaj073?logo=twitter&style=for-the-badge" alt="wasiftaj073" /></a> </p>
 
